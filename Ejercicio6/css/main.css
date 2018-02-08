@@ -1,0 +1,13 @@
+#caja{
+  padding: .5em;
+  background-color: #E0E0E0;
+  border: 1px solid #CCC;
+  overflow: hidden;
+}
+
+.anterior{
+  float: left;
+}
+.siguiente{
+  float: right;
+}
